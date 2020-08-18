@@ -1,0 +1,2 @@
+# Multivariate_Regression_using_scikit-learn_to_predict_sales_revenue
+This project uses the very popular Advertising dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper. Seaborn was used to perform Exploratory Data Analysis (EDA) and data visualization. Then univariate and multivariate linear regression models were built using scikit-learn.The model was evaluated using numerical measures such as R² and RMSE. Several techniques were employed tp optimise the model and solve the problem of synergy.
